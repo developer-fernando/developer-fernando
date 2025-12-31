@@ -1,43 +1,45 @@
 <h2>Fernando Santana</h2>
 
-<h3>💻 Software Engineer</h3>
+<h3>Software Engineer</h3>
 
 <p>
-Engenheiro de Software com foco no desenvolvimento de sistemas web escaláveis,
-bem estruturados e de fácil manutenção. Atuo com forte base em backend,
-arquitetura de aplicações e integração entre sistemas, sempre priorizando
-qualidade de código, organização e boas práticas.
+Software Engineer focused on building, evolving, and maintaining software systems.
+I work across multiple application layers, contributing to feature development,
+business logic implementation, system integration, and architectural organization.
 </p>
 
 <p>
-Neste repositório compartilho projetos, estudos e implementações que refletem
-minha experiência prática e minha evolução contínua como engenheiro de software.
+I act involves improving existing systems, developing new functionalities,
+refactoring codebases, and delivering solutions aligned with real-world product
+and business needs.
 </p>
 
 <hr>
 
-<h3>🧠 Áreas de Atuação</h3>
+<h3>🧠 Areas of Work</h3>
 
 <ul>
-  <li>Desenvolvimento de aplicações web e APIs</li>
-  <li>Arquitetura e organização de projetos</li>
-  <li>Integração entre sistemas e serviços</li>
-  <li>Modelagem e gestão de bancos de dados</li>
-  <li>Manutenção e evolução de sistemas legados</li>
-  <li>Versionamento, revisão e qualidade de código</li>
+  <li>Development and evolution of software systems</li>
+  <li>Implementation of business rules and application logic</li>
+  <li>Design and integration of system components and services</li>
+  <li>Data modeling and persistence strategies</li>
+  <li>Maintenance, refactoring, and continuous improvement of existing codebases</li>
+  <li>Implementation of new features based on product requirements</li>
+  <li>Structural and architectural organization of projects</li>
+  <li>Collaboration through version control and code review workflows</li>
 </ul>
 
 <hr>
 
-<h3>🚀 Tecnologias e Ferramentas</h3>
+<h3>🚀 Technologies & Tools</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
 
   <br/>
 
@@ -57,7 +59,17 @@ minha experiência prática e minha evolução contínua como engenheiro de soft
 
 <hr>
 
-<h3>📫 Contato</h3>
+<h3>📌 Notes</h3>
+
+<p>
+This profile shares practical work, experiments, and solutions related to real-world
+software development. The repositories reflect continuous learning, system evolution,
+and hands-on problem solving.
+</p>
+
+<hr>
+
+<h3>📫 Contact</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dev-fernando/" target="_blank">
