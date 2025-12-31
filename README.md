@@ -1,6 +1,6 @@
 <h2>Fernando Santana</h2>
 
-<h3>Software Engineer</h3>
+<h3>👨🏽‍💻 Software Engineer</h3>
 
 <p>
 Software Engineer focused on building, evolving, and maintaining software systems.
