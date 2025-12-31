@@ -3,13 +3,13 @@
 <h3>👨🏽‍💻 Software Engineer</h3>
 
 <p>
-Software Engineer focused on building, evolving, and maintaining softwares.
+Software Engineer focused on building, evolving, and maintaining software systems.
 I work across multiple application layers, contributing to feature development,
 business logic implementation, system integration, and architectural organization.
 </p>
 
 <p>
-My work involves improving existing softwares, developing new functionalities,
+My work involves improving existing systems, developing new functionalities,
 refactoring codebases, and delivering solutions aligned with real-world product
 and business needs.
 </p>
@@ -19,7 +19,7 @@ and business needs.
 <h3>🧠 Areas of Work</h3>
 
 <ul>
-  <li>Development and evolution of softwares</li>
+  <li>Development and evolution of software systems</li>
   <li>Implementation of business rules and application logic</li>
   <li>Design and integration of components and services</li>
   <li>Data modeling and persistence strategies</li>
